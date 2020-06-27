@@ -1,0 +1,32 @@
+
+
+#  name: "hehe"
+#info:
+#  name: "hehe"
+#  age: "18"
+# 对象第二种写法
+#info: {name: "hehe",age: "18"}
+
+# 列表
+#yaml列表
+#data:
+#  - "hehe"
+#  - "女"
+
+
+#python 列表
+#data1: ["nana","女"]
+
+#json格式
+#info:
+#  - name: "hehe"
+#  - name: "heihei"
+
+#纯量
+#yaml布尔值
+#boo101: true
+#boo102: false
+
+#python 布尔值
+boo103: True
+boo104: False
